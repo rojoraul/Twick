@@ -1,4 +1,4 @@
-# Twick
+# Twick      ![image](/images/twick32.png)
 
 I have developed an extension that integrates your follow list from Kick with the sidebar menu on Twitch. This tool aims to enhance your streaming experience by centralizing the platforms you follow, allowing for a seamless transition between Twitch and Kick. Here’s a detailed overview of its features and benefits:
 
@@ -15,3 +15,4 @@ I have developed an extension that integrates your follow list from Kick with th
 
 ## Conclusion
 This extension is ideal for avid streamers and viewers who are active on both Kick and Twitch. It simplifies the process of staying connected with your favorite streamers and enhances your overall streaming experience by providing a centralized, easy-to-navigate interface. With its real-time updates, customizable features, and notification integration, managing your follow lists across platforms has never been easier.
+
